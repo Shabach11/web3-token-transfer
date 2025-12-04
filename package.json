@@ -1,0 +1,13 @@
+{
+  "name": "web3-token-transfer",
+  "version": "1.0.0",
+  "description": "A simple Node.js script to send tokens using ethers.js",
+  "main": "send.js",
+  "scripts": {
+    "start": "node send.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.16.0"
+  }
+}
